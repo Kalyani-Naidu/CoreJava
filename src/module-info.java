@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Affan
+ *
+ */
+module StringsPractice {
+}
